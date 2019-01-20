@@ -11,7 +11,7 @@ public class caladd
 		{
 			System.out.println("1. Add 2 Numbers \n");
 			System.out.println("2. Multiply 2 Numbers \n");
-			System.out.println("2. Exit \n\n");
+			System.out.println("3. Exit \n\n");
 			System.out.println("Enter Your Choice: ");
 			choice = scan.next().charAt(0);
 			switch(choice)
